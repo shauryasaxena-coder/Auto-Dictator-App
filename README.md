@@ -8,6 +8,11 @@ It uses **gTTS** for text-to-speech and **CustomTkinter** for a modern interface
 - Click a button to reveal the correct spelling.
 - Modern UI with rounded buttons.
 
+## How-To-Run
+- Enter the words in the words.txt file.
+- Then, run the .py file.
+- It will pick up and say the words from the words.txt file.
+
 ## Requirements
 - Python 3.8 or later
 - Install dependencies:
