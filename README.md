@@ -13,6 +13,9 @@ It uses **gTTS** for text-to-speech and **CustomTkinter** for a modern interface
 - Then, run the .py file.
 - It will pick up and say the words from the words.txt file.
 
+## License
+- This project is licensed under the MIT License – see the LICENSE file for details.
+
 ## Requirements
 - Python 3.8 or later
 - Install dependencies:
